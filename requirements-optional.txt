@@ -1,0 +1,2 @@
+# Only for the optional AI teaching review (see README). Use only if the organiser allows it.
+anthropic

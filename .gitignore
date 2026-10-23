@@ -1,0 +1,12 @@
+data/*
+!data/.gitkeep
+cache/
+results.csv
+__pycache__/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+.env
+venv/
